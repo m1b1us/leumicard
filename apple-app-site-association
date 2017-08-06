@@ -4,7 +4,7 @@
 "details": [
             {
                 "appID": "8V9HEDQ9Z3.il.co.mobile.leumicard",
-                "paths": [ "/he-il/Benefits/BenefitsPlus/Atractions/Pages/", "/he-il/Benefits/BenefitsPlus/Movies/Pages/"]
+                "paths": [ "*" ]
             }
         ]
     }
