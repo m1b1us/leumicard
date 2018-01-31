@@ -1,9 +1,0 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "com.ideomobile.leumicard",
-    "sha256_cert_fingerprints":
-    ["D1:D0:8B:1C:AD:5F:9E:BD:D0:58:3C:FA:23:E7:7A:67:66:46:2C:BE:4D:10:10:2A:7F:5F:F5:C0:B9:20:4C:C3"]
-  }
-}]
