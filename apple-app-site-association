@@ -4,11 +4,11 @@
     "details": [
       {
         "appID": "HFFA2JQYX7.il.co.mobile.leumicard",
-        "paths": ["/Anonymous/Benefits/BenefitsHistory.aspx"]
+        "paths": ["*"]
       },
       {
         "appID": "8V9HEDQ9Z3.il.co.mobile.leumicard",
-        "paths": ["/Anonymous/Benefits/BenefitsHistory.aspx"]      
+        "paths": ["*]      
        }
     ]
   }
